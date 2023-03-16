@@ -1,0 +1,5 @@
+{
+    "node_id": "3bb01ced1a4de8b8aea421ba2ff28ce9b427f6aa",
+    "public_ip": "65.108.205.47",
+    "port": "26662"
+}
